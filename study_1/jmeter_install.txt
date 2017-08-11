@@ -1,0 +1,7 @@
+Jmeter是运行在JVM之上，需要配置java的工作环境，
+ 安装
+1.安装java，配置环境变量：JAVA_HOME，把JAVA_HOME加入path环境变量中
+2.下载：官网：http://jmeter.apache.org/download_jmeter.cgi
+启动
+双击：lib->jmeter
+说明：jmter_server：如果当前机器作为一台远程负载机使用，则启用此服务
